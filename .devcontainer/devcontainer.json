@@ -14,6 +14,16 @@
 		}
 	},
 
+	// Forward Jupyter port locally, mark required
+	"forwardPorts": [8888],
+	"portsAttributes": {
+		"8888": {
+			"label": "DotnetInteractive",
+			"requireLocalPort": true,
+			"onAutoForward": "ignore"
+		}
+	},
+
 	// Set *default* container specific settings.json values on container create.
 	"settings": {
 		"terminal.integrated.gpuAcceleration": "off",
