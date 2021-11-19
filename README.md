@@ -27,3 +27,7 @@ $ jupyter notebook --ip=0.0.0.0  --allow-root  --notebook-dir=.
 ```
 
 If you get an error creating the dotnet-kernel-backed notebook, copy the provided "jupyter_notebook_config.py" to `~/.jupyter`.
+
+## Included notebooks
+
+* FSharpFirst.ipynb : Trying out various curious syntactic forms
