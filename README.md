@@ -31,3 +31,7 @@ If you get an error creating the dotnet-kernel-backed notebook, copy the provide
 ## Included notebooks
 
 * FSharpFirst.ipynb : Trying out various curious syntactic forms
+
+## Data
+
+* Included data: https://raw.githubusercontent.com/stefmolin/Hands-On-Data-Analysis-with-Pandas/master/ch_09/data/winequality-red.csv
